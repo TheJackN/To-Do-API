@@ -60,3 +60,5 @@ end
 gem 'figaro', '1.0'
 # Used to easily create serializers
 gem 'active_model_serializers'
+# Used for authentication
+gem 'devise'
